@@ -17,7 +17,7 @@ def calculate_amount(total_units, user_type):
     return amount, final, total_amount
 
 def main():
-    print("    Pp Electric Distributors  ")
+    print("    Pp Electrical Distributors  ")
 
     
     try:
