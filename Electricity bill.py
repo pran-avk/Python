@@ -19,6 +19,7 @@ def calculate_amount(total_units, user_type):
 def main():
     print("    KP Electric Distributors  ")
     
+    
     try:
         total_units = int(input("Enter the number of units: "))
         user_type = int(input("Select type: 1: House_hold, 2: Small_industries, 3: Factories: "))
