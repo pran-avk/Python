@@ -13,5 +13,5 @@ class Solution:
     
 
 sol = Solution()
-print(sol.inSequence("abc", "ahbgdc"))  
+print(sol.inSequence("abc", "ahcbgd"))  
 print(sol.inSequence("axc", "ahbgdc"))  
