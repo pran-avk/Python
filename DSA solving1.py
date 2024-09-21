@@ -12,6 +12,4 @@ class Solution:
         return i==s_len
     
 
-sol = Solution()
-print(sol.inSequence("abc", "ahcbgd"))  
-print(sol.inSequence("axc", "ahbgdc"))  
+ 
